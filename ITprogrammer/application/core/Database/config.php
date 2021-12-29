@@ -1,0 +1,9 @@
+<?php
+return[
+'host'=>'localhost',
+'bd_name'=>'register_bd',
+'user_name'=>'root',
+'pass'=>'',
+'charset'=>'utf8'
+];
+?>
